@@ -851,7 +851,7 @@ Os resultados obtidos indicam que 23,2% dos domicílios do município (71.472 im
 
 Estes números evidenciam a importância de políticas públicas integradas que considerem não apenas a mitigação dos riscos existentes, mas também o planejamento da expansão urbana e a regularização fundiária. A metodologia aqui empregada — combinando dados geoespaciais da **Defesa Civil** com os microdados do **Censo** — mostrou-se eficaz para produzir diagnósticos precisos e pode ser replicada em outros municípios ou atualizada periodicamente conforme novos dados se tornem disponíveis.
 
-O código completo está disponível, em formato de notebook Jupyter, através do arquivo *domicilios_em_risco.ipynb*.
+O código completo está disponível através do [notebook](https://github.com/guiajf/domicilios/blob/main/domicilios_em_risco.ipynb).
 
 
 **Referências:**
