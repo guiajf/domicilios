@@ -852,16 +852,6 @@ Os resultados obtidos indicam que 23,2% dos domicílios do município (71.472 im
 Estes números evidenciam a importância de políticas públicas integradas que considerem não apenas a mitigação dos riscos existentes, mas também o planejamento da expansão urbana e a regularização fundiária. A metodologia aqui empregada — combinando dados geoespaciais da **Defesa Civil** com os microdados do **Censo** — mostrou-se eficaz para produzir diagnósticos precisos e pode ser replicada em outros municípios ou atualizada periodicamente conforme novos dados se tornem disponíveis.
 
 
-**Fontes:**
-
-
-
-https://g1.globo.com/jornal-nacional/noticia/2026/02/27/juiz-de-fora-esta-entre-as-cidades-com-maior-populacao-em-areas-de-risco-entenda-os-motivos.ghtml
-https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/02/25/mapa-risco-juiz-de-fora-regioes-onde-pessoas-morreram.htm
-
-
-https://www.mpmg.mp.br/portal/menu/comunicacao/noticias/mpmg-recomenda-quemunicipio-dejuiz-de-forasoreabra-areas-interditadaspelas-chuvasaposrigorosa-avaliacao-tecnica-2C9F8A9B9C9211E3019CD9786D50260A-00.shtml
-
 **Referências:**
 
 Câmara Municipal de Juiz de Fora. *130 mil pessoas vivem em área de risco para desastres ambientais em Juiz de Fora, diz Cemaden*. Notícias. Publicada em: 26/02/2025. Disponível em: https://www.camarajf.mg.gov.br/www/noticias/exibir/13837/130-mil-pessoas-vivem-em-area-de-risco-para-desastres-ambientais-em-Juiz-de-Fora-diz-Cemaden.html. Último acesso em 
@@ -873,8 +863,3 @@ FONSECA, L. A. M. et al. *Áreas de Riscos a Deslizamentos de Terra em Juiz de F
 *Plano de Contingência Municipal - para respostas aos desastres ocasionados pelas chuvas - período chuvoso 2025-2026.* Elaborado pela Subsecretaria de Proteção e Defesa Civil. Juizde Fora, Outubro de 2025. Disponível em: https://www.pjf.mg.gov.br/subsecretarias/sspdc/arquivos/periodo_chuvoso_2025_2026.pdf./.
 
 *Referencial para a elaboração de documentação cartográfica no âmbito da Prefeitura de Juiz de Fora/MG*. Elaborado pela Secretaria de Planejamento Urbano. Disponível em: https://www.pjf.mg.gov.br/desenvolvimentodoterritorio/geoprocessamento/arquivos/referencial-mapa.pdf
-
-
-```python
-
-```
