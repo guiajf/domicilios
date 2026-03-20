@@ -4,13 +4,11 @@
 
 No projeto anterior, disponível [aqui](https://github.com/guiajf/riscojf), compartilhamos o passo a passo para converter um mapa criado no Google My Maps para um mapa interativo personalizado, com uso de *Folium* e outras bibliotecas do Python. Então, o foco era a visualização cartográfica das áreas de risco mapeadas pela **Defesa Civil** do município.
 
-Agora, avançamos para uma etapa complementar e igualmente importante: em vez de nos determos apenas na visualização espacial, produzimos tabelas e gráficos para uma análise quantitativa detalhada. Esta análise abrange tanto a extensão territorial das áreas de risco (por **Unidade** e **Região de Planejamento**) quanto a quantificação dos domicílios situados nessas áreas, com base nos dados do **Censo 2022**. O objetivo é fornecer subsídios objetivos para o planejamento urbano e para as políticas públicas de redução de riscos e prevenção de desastres.
-
-
+Agora, avançamos para uma etapa complementar e igualmente importante: em vez de nos determos apenas na visualização espacial, produzimos tabelas e gráficos para uma análise quantitativa detalhada. Esta análise abrange tanto a extensão territorial das áreas de risco (por **Unidade** e **Região de Planejamento**) quanto a quantificação dos domicílios situados nessas áreas, com base nos dados do **Censo 2022**.
 
 ### Objetivo
 
-Realizar uma análise quantitativa das áreas de risco do município de Juiz de Fora, segmentada por **Unidade de Planejamento (UP)** e **Região de Planejamento (RP)**, utilizando como base o mapeamento de risco elaborado pela **Defesa Civil**. Complementarmente, a partir dos microdados do **Censo Demográfico 2022** (**CNEFE** - *Cadastro Nacional de Endereços para Fins Estatísticos*), quantificar e caracterizar os imóveis afetados, identificando sua distribuição espacial e tipologia. Busca-se, com isso, gerar informações estratégicas que possam orientar ações preventivas, alocação de recursos e políticas habitacionais no município.
+Realizar uma análise quantitativa das áreas de risco do município de Juiz de Fora, segmentada por **Unidade de Planejamento (UP)** e **Região de Planejamento (RP)**, utilizando como base o mapeamento de risco elaborado pela **Defesa Civil**. Complementarmente, a partir dos microdados do **Censo Demográfico 2022** (**CNEFE** - *Cadastro Nacional de Endereços para Fins Estatísticos*), quantificar e caracterizar os imóveis afetados, identificando sua distribuição espacial e tipologia.
 
 ### Importamos as bibliotecas
 
@@ -849,10 +847,7 @@ A análise quantitativa desenvolvida neste projeto permitiu aprofundar o conheci
 
 Os resultados obtidos indicam que 23,2% dos domicílios do município (71.472 imóveis) estão localizados em áreas mapeadas como de risco, sendo a grande maioria (90,3%) concentrada em áreas de risco geológico. A distribuição desses domicílios não é homogênea no território: as regiões Leste, Sul e Sudeste concentram mais da metade dos imóveis em situação de risco, e bairros como Santa Luzia, Progresso e Vitorino Braga destacam-se com os maiores contingentes populacionais expostos.
 
-Estes números evidenciam a importância de políticas públicas integradas que considerem não apenas a mitigação dos riscos existentes, mas também o planejamento da expansão urbana e a regularização fundiária. A metodologia aqui empregada — combinando dados geoespaciais da **Defesa Civil** com os microdados do **Censo** — mostrou-se eficaz para produzir diagnósticos precisos e pode ser replicada em outros municípios ou atualizada periodicamente conforme novos dados se tornem disponíveis.
-
-O código completo está disponível através do [notebook](https://github.com/guiajf/domicilios/blob/main/domicilios_em_risco.ipynb).
-
+A metodologia aqui empregada — combinando dados geoespaciais da **Defesa Civil** com os microdados do **Censo** — mostrou-se eficaz para produzir diagnósticos precisos.
 
 **Referências:**
 
