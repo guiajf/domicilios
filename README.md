@@ -2,7 +2,7 @@
 
 ### Introdução
 
-No projeto anterior, disponível [aqui](https://github.com/guiajf/riscojf), compartilhamos o passo a passo para converter um mapa criado no Google My Maps para um mapa interativo personalizado, com uso de *Folium* e outras bibliotecas do Python. Então, o foco era a visualização cartográfica das áreas de risco mapeadas pela **Defesa Civil** do município.
+No projeto anterior, disponível [aqui](https://github.com/guiajf/riscojf), compartilhamos o passo a passo para converter um mapa criado no *Google My Maps* para um mapa interativo personalizado, com uso de *Folium* e outras bibliotecas do Python. Então, o foco era a visualização cartográfica das áreas de risco mapeadas pela **Defesa Civil** do município.
 
 Agora, avançamos para uma etapa complementar e igualmente importante: em vez de nos determos apenas na visualização espacial, produzimos tabelas e gráficos para uma análise quantitativa detalhada. Esta análise abrange tanto a extensão territorial das áreas de risco (por **Unidade** e **Região de Planejamento**) quanto a quantificação dos domicílios situados nessas áreas, com base nos dados do **Censo 2022**.
 
