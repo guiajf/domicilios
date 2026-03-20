@@ -847,7 +847,7 @@ A análise quantitativa desenvolvida neste projeto permitiu aprofundar o conheci
 
 Os resultados obtidos indicam que 23,2% dos domicílios do município (71.472 imóveis) estão localizados em áreas mapeadas como de risco, sendo a grande maioria (90,3%) concentrada em áreas de risco geológico. A distribuição desses domicílios não é homogênea no território: as regiões Leste, Sul e Sudeste concentram mais da metade dos imóveis em situação de risco, e bairros como Santa Luzia, Progresso e Vitorino Braga destacam-se com os maiores contingentes populacionais expostos.
 
-A metodologia aqui empregada — combinando dados geoespaciais da **Defesa Civil** com os microdados do **Censo** — mostrou-se eficaz para produzir diagnósticos precisos.
+A metodologia aqui empregada, que combina dados geoespaciais da **Defesa Civil** com os microdados do **Censo**, mostrou-se eficaz para produzir diagnósticos precisos.
 
 **Referências:**
 
