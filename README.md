@@ -849,6 +849,8 @@ Os resultados obtidos indicam que 23,2% dos domicílios do município (71.472 im
 
 A metodologia aqui empregada, que combina dados geoespaciais da **Defesa Civil** com os microdados do **Censo**, mostrou-se eficaz para produzir diagnósticos precisos.
 
+Estes números evidenciam a importância de políticas públicas integradas que considerem não apenas a mitigação dos riscos existentes, mas também o planejamento da expansão urbana e a regularização fundiária.
+
 **Referências:**
 
 Câmara Municipal de Juiz de Fora. *130 mil pessoas vivem em área de risco para desastres ambientais em Juiz de Fora, diz Cemaden*. Notícias. Publicada em: 26/02/2025. Disponível em: https://www.camarajf.mg.gov.br/www/noticias/exibir/13837/130-mil-pessoas-vivem-em-area-de-risco-para-desastres-ambientais-em-Juiz-de-Fora-diz-Cemaden.html. Último acesso em 
